@@ -1,7 +1,7 @@
 # XALDITIGAL_code_test
 Este repositorio es para compartir el código para la prueba de la empresa XELDIGITAL.
 Para la prueba de programacion use el IDE de Jupyter Notebook donde se uso el lenguaje de programacion de python y la libreria de pandas.
-Para la prueba de SQL utilizamos IBM Db2 que es un RDBMS de IBM que nos pertime crear tablas, insertar valores y hacer queries.
+Para la prueba de SQL utilizé IBM Db2 que es un RDBMS de IBM que nos pertime crear tablas, insertar valores y hacer queries.
 
 Creando las tablas
 
